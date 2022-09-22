@@ -1,6 +1,6 @@
-# IBM-Hackathon22
+# SBSPS Challenge 9399 An Accurate Model for Cricket Pose Estimation
 
-To execute the code
+#To execute the code
 Install this library for dependency
 
 use "!pip install mediapipe" to install
