@@ -1,5 +1,17 @@
 # IBM Hack Challenge - 2021
 
+Developing an Accurate Model for Cricket Pose Estimation :
+
+•	Pose estimation is one of the issues that have gained many benefits from using state-of-the-art deep learning-based models. 
+•	Human pose, hand and mesh estimation is a significant problem . 
+•	A Human Pose Skeleton represents the orientation of a person in a graphical format.
+•	 With the help of this tool cricket
+
+Youtube Link:
+
+https://youtu.be/AS6fY8SYhvk
+
+
 **Team Name - Expandables** \
 **Problem Title** - Develop An Accurate Model For Cricket Pose Estimation
 
@@ -13,7 +25,7 @@
 
 ## Demo
 
-- **Demonstration** - https://www.youtube.com/
+- **Demonstration** - https://youtu.be/AS6fY8SYhvk
 
 
 ## Required Libraries
